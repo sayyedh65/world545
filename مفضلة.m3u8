@@ -2495,3 +2495,5 @@ https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 http://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1,الشروق الجزائر
 https://hls-distrib-eu2.dzsecurity.net/live/EchoroukTV/chunks.m3u8?session=eJwL9HYICqsIcIkPKCpPYijgKXeLqkisCraJEQMAc24Icg==
+#EXTINF:-1,النهار الجزائر
+https://hls-distrib-eu2.dzsecurity.net/live/EnnaharTV/chunks.m3u8?session=eJwL9HYICqsIcIkPKCrLZitkKHeIrU2sCtYPZgAAc2kISw==
