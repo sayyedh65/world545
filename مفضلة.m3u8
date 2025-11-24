@@ -2493,3 +2493,5 @@ https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
 #EXTINF:-1,m-net info مقدونيا الشمالية
 http://ares.mnet.mk/hls/mnet-kids.m3u8
+#EXTINF:-1,الشروق الجزائر
+https://hls-distrib-eu2.dzsecurity.net/live/EchoroukTV/chunks.m3u8?session=eJwL9HYICqsIcIkPKCpPYijgKXeLqkisCraJEQMAc24Icg==
